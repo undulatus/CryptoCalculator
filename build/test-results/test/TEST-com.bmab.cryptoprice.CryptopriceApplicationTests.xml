@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bmab.cryptoprice.CryptopriceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-31T16:39:22.511Z" hostname="b-matthew-xqrj2" time="0.397">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.bmab.cryptoprice.CryptopriceApplicationTests" time="0.397"/>
+  <system-out><![CDATA[00:39:21.853 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.bmab.cryptoprice.CryptopriceApplicationTests]: CryptopriceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+00:39:21.898 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.bmab.cryptoprice.CryptopriceApplication for test class com.bmab.cryptoprice.CryptopriceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.4)
+
+2025-04-01T00:39:22.064+08:00  INFO 78372 --- [cryptoprice] [    Test worker] c.b.c.CryptopriceApplicationTests        : Starting CryptopriceApplicationTests using Java 17.0.12 with PID 78372 (started by a2358680 in /Users/a2358680/Desktop/asrt/cryptoprice)
+2025-04-01T00:39:22.065+08:00  INFO 78372 --- [cryptoprice] [    Test worker] c.b.c.CryptopriceApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T00:39:22.505+08:00  INFO 78372 --- [cryptoprice] [    Test worker] c.b.c.CryptopriceApplicationTests        : Started CryptopriceApplicationTests in 0.547 seconds (process running for 1.168)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

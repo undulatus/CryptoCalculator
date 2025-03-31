@@ -1,0 +1,75 @@
+# IntelliJ IDEA related
+.idea/
+*.iml
+*.iws
+out/
+#!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/
+target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# OS related
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.pid
+*.seed
+*.orig
+
+# Spring Boot specific
+.env
+*.h2.db
+*.mv.db
+
+# Gradle specific
+.gradle/
+build/
+
+# Java specific
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Generated files
+*.log
+*.out
+
+# Lombok generated files
+*.generated
+*.lombok
+
+# IDE Configurations
+.vscode/
+.idea/
+*.iml
+
+# Testing related
+test-output/
+surefire-reports/
+jacoco.exec
+.jacoco/
+
+# Others
+*.tmp
+*.bak
+*.swp
+*~
+
+# Exclude all .env files
+.env
